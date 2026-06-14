@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -392,7 +392,7 @@
 
         .notif-content p {
             font-size: 11px;
-            color: #666;
+            color: #666
             line-height: 1.4;
         }
 
